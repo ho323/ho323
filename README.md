@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a passionate person.
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ho323.github.io/)](https://ho323.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8536048@gmail.com)](mailto:snugyun01@gmail.com)
