@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ho323
+👋 Hello, I'm Hoseong Kim. I'm currently developing an application via Flutter. I have worked as an ML engineer in a startup in the past.
 
 I am a passionate person.
 
