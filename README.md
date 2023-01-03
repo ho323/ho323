@@ -1,7 +1,9 @@
 ### Hoseong Kim -- @Ho323
 
-Hello👋 I'm Hoseong Kim. I'm currently developing an application via Flutter. I have worked as an ML engineer in a startup in the past.
-
+Hello👋 I'm Hoseong Kim. I'm currently developing an application via Flutter.  
+I have worked as an ML engineer in a startup in the past.
+  
+  
 📚 Stack   
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
