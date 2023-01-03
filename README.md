@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ho323.github.io/)](https://ho323.github.io/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8536048@gmail.com)](mailto:snugyun01@gmail.com)
-
 <a href="https://www.instagram.com/h05eong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
