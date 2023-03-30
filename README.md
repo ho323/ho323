@@ -1,8 +1,6 @@
 ### Hoseong Kim --@ho323
 
 Hello👋  
-I'm currently developing an application with Flutter for my business.  
-I have worked as an ML engineer in a startup in the past.
   
   
 📚 Stack   
@@ -38,4 +36,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+I'm currently developing an application with Flutter for my business.  
+I have worked as an ML engineer in a startup in the past.
 -->
