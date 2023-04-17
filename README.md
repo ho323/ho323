@@ -19,8 +19,9 @@ Hello👋
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ho323&show_icons=true&theme=dark)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8536048@gmail.com)](mailto:8536048@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ho323.github.io/)](https://ho323.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-white?style=flat-square&logo=velog&link=https://velog.io/@ho323)](https://velog.io/@ho323)
 <a href="https://www.instagram.com/ho_o323/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fho323&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
