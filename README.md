@@ -1,9 +1,8 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Hoseong Kim, a machine-learning engineer. 🌱 <br>
-I am very interested in Python and MLOps. 🔥 <br>
-I am currently in my bachelor's degree at Seoul Tech. 🧑‍🎓 <br>
-I have worked as an ML engineer in a startup in the past. ✨ <br>
+I am currently getting my bachelor's degree at Seoul Tech. 🧑‍🎓 <br>
+I've worked in AI startup in the past. ✨ <br>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
