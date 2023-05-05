@@ -1,6 +1,6 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-  I'm Hoseong Kim, an app developer who can develop machine learning. 🌱 <br>
+  I'm Hoseong Kim, an app developer. 🌱 <br>
   I also know how to engineer machine learning. ✨ <br>
 </p>
 
