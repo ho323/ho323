@@ -1,8 +1,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Hoseong Kim, a machine-learning engineer. 🌱 <br>
-I am currently getting my bachelor's degree at Seoul Tech. 🧑‍🎓 <br>
-I've worked in AI startup in the past. ✨ <br>
+  I'm Hoseong Kim, an app developer who can develop machine learning. 🌱 <br>
+  I also know how to engineer machine learning. ✨ <br>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -10,15 +9,13 @@ I've worked in AI startup in the past. ✨ <br>
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-<br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+<br>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
@@ -42,6 +39,11 @@ I've worked in AI startup in the past. ✨ <br>
 
 <!--
 **ho323/ho323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I'm Hoseong Kim, a machine-learning engineer. 🌱 <br>
+I am currently getting my bachelor's degree at Seoul Tech. 🧑‍🎓 <br>
+I've worked in AI startup in the past. ✨ <br>
 
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 Here are some ideas to get you started:
