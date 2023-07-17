@@ -1,7 +1,6 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
   I'm Hoseong Kim, a machine-learning engineer. 🌱 <br>
-  I'm very interested in reinforcement learning. ✨ <br>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -40,6 +39,8 @@
 <!--
 **ho323/ho323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  
+  I'm interested in reinforcement learning. ✨ <br>
 
   I'm Hoseong Kim, an hybrid app developer. 🌱 <br>
   I also know how to engineering machine learning. ✨ <br>
