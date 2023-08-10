@@ -21,7 +21,6 @@
 <h3 align="center"> 🐱 Me 🐱 </h3>
 <p align="center">
   <a href="https://velog.io/@ho323"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ho323"/></a>&nbsp
-  <a href="https://www.instagram.com/ho_o323/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ho_o323/"/></a>&nbsp
   <a href="mailto:8536048@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=8536048@gmail.com"/></a>
 </p>
 <br>
@@ -66,4 +65,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
+
+
+    <a href="https://www.instagram.com/ho_o323/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ho_o323/"/></a>&nbsp
 -->
