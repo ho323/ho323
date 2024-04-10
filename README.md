@@ -21,7 +21,7 @@
 <br>
 <h3 align="center"> 🐱 Me 🐱 </h3>
 <p align="center">
-  <a href="https://heavy-rhinoceros-3ee.notion.site/c4d544910c724d79a9a778f11e5bfcca"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  <a href="https://ho323.notion.site/c4d544910c724d79a9a778f11e5bfcca?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <a href="https://velog.io/@ho323"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ho323"/></a>&nbsp
   <a href="mailto:8536048@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=8536048@gmail.com"/></a>
 </p>
