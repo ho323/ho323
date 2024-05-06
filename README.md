@@ -1,7 +1,7 @@
 <h3 align="left"> 👋 Hi, there 👋 </h3>
 <p align="left">
   I'm Hoseong Kim, a machine-learning engineer. <br>
-  Currently pursuing a double major in A.I. and mechanical engineering at Seoul National University of Science and Technology.
+  Currently pursuing a major in A.I.
 </p>
 
 <h3 align="left">📚 Tech Stack 📚</h3>
