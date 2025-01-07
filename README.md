@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"></a>&nbsp
 </p>
 
 <h3 align="left">Me</h3>
