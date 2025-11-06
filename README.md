@@ -1,22 +1,25 @@
-<h3 align="left">Tech Stack</h3>
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/sqlite-4479A1?style=flat-square&logo=sqlite&logoColor=white"></a>&nbsp 
-<br>
-<!--
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
--->
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"></a>&nbsp
-</p>
+## About me
+- **2022.03 - 2026.02**   : Bachelor’s Degree, Seoul University of Science and Technology
+  - Department of Mechanical Convergence Engineering
+  - Department of Applied Artificial Intelligence (Double Major)
 
-<h3 align="left">Me</h3>
+- **2025.03 - 2025.08**   : ML Engineer, KIST
+  - Conducting research on AI systems for VLM-based information extraction in digital twin
+
+- **2021.10 - 2022.05**   : ML Engineer, Nextdoor
+  - Developed motion analysis AI models to provide feedback on rehabilitation exercises
+
+
+## Research Interest
+* Computer Vision
+* Generative Models
+* Seasonal-Scale Weather Forecasting
+* OCR
+
+
+## Contact
 <p align="left">
 <!--   <a href="https://ho323.notion.site/c4d544910c724d79a9a778f11e5bfcca?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp -->
   <a href="mailto:8536048@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=8536048@gmail.com"/></a>
