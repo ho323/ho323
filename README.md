@@ -1,5 +1,5 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)   
-🎯 Passionate about AI systems, Computer Vision, and MLOps for intelligent automation.
+Passionate about AI systems, Computer Vision, and MLOps for intelligent automation.
 
 ## 📚 Education
 - **2022.03 - 2026.02**   : Bachelor’s Degree, Seoul University of Science and Technology
