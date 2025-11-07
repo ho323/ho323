@@ -1,11 +1,14 @@
-![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)   
+🎯 Passionate about AI systems, Computer Vision, and MLOps for intelligent automation.
 
+## 📚 Education
 - **2022.03 - 2026.02**   : Bachelor’s Degree, Seoul University of Science and Technology
   - Department of Mechanical Convergence Engineering
   - Department of Applied Artificial Intelligence (Double Major)
 
+## 💼 Experience
 - **2025.03 - 2025.08**   : ML Engineer, KIST
-  - Conducting research on AI systems for VLM-based information extraction in digital twin
+  - Conducted research on VLM for automated information extraction and digital twin construction
 
 - **2021.10 - 2022.05**   : ML Engineer, Nextdoor
   - Developed motion analysis AI models to provide feedback on rehabilitation exercises
