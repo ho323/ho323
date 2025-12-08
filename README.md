@@ -14,7 +14,7 @@ Passionate about AI systems, Computer Vision, and MLOps for intelligent automati
   - Developed motion analysis AI models to provide feedback on rehabilitation exercises
 
 ## 🏆 Awards
-| Challenge | Hosted by | Objective | Award | Role | etc |
+| Challenge | Hosted by | Objective | Award | Role | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **AI Detection Model Competition for Deepfake Crime Response** | National Forensic Service (NFS) | Developed a classification prediction model to distinguish between real and fake face images/video frames. | **Excellence Award** | **Leader** | Dec 2025 |
 | **AI Competition for Traffic Accident Risk Prediction using Cognitive Data of Transport Workers** | Korea Transportation Safety Authority (KOTSA) | Developed an AI model to predict traffic accident risk using cognitive characteristic data of transport workers. | **Merit Award** | **Leader** | Dec 2025 |
