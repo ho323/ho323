@@ -10,9 +10,6 @@ Passionate about AI systems, Computer Vision, and MLOps for intelligent automati
 - **2025.03 - 2025.08**   : ML Engineer, KIST
   - Conducted research on VLM for automated information extraction and digital twin construction
 
-- **2021.10 - 2022.05**   : ML Engineer, Nextdoor
-  - Developed motion analysis AI models to provide feedback on rehabilitation exercises
-
 ## 🏆 Awards
 | Challenge | Hosted by | Objective | Award | Role | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
