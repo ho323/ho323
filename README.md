@@ -17,7 +17,7 @@ Passionate about AI systems, Computer Vision, and MLOps for intelligent automati
 | **AI Competition for Traffic Accident Risk Prediction using Cognitive Data of Transport Workers** | Korea Transportation Safety Authority (KOTSA) | Developed an AI model to predict traffic accident risk using cognitive characteristic data of transport workers. | **Merit Award** | **Leader** | Dec 2025 |
 | **Paju Citizen AI Innovation Idea Competition** | Paju City | Proposed an AI cultural content service to revitalize the Paju Book City area. | **Encouragement Award** | **Leader** | Dec 2025 |
 | **2025 MixUP AI Datathon** | Upstage AI | Prompt Engineering utilizing the SOLAR Pro2 API. | **Excellence Award** | **Leader** | Nov 2025 |
-| **2025 Weather Big Data Contest** | Korea Meteorological Administration (KMA) | Correlation analysis and prediction between weather and subway congestion. | **Encouragement Award** | **Leader** | Aug 2025 |
+| **2025 Weather Big Data Contest** | Korea Meteorological Administration (KMA) | Correlation analysis and prediction between weather and subway congestion. | **Encouragement Award** | **Member** | Aug 2025 |
 | **Capstone Design** | Seoul National University of Science and Technology (SeoulTech) | Developed an autonomous firefighting robot system using CCTV-based fire detection AI. | **Grand Prize** | **Leader** | Jun 2025 |
 | **2024 Big Data Creator Camp** | National Information Society Agency (NIA) | Developed a fashion style recommendation system. | **Excellence Award** | **Leader** | Nov 2024 |
 
