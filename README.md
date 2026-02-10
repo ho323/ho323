@@ -1,28 +1,59 @@
-![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)   
-Passionate about AI systems, Computer Vision, and MLOps for intelligent automation.
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)
+
+### Kim Hoseong  
+Passionate about **AI Systems, Computer Vision, Multimodal Learning, and MLOps** for real-world intelligent automation.
+
+- AI / CV / Data-centric ML competitions & research
+- Interested in scalable training pipelines and deployment
+
+---
 
 ## 📚 Education
-- **2022.03 - 2026.02**   : Bachelor’s Degree, Seoul University of Science and Technology
-  - Department of Mechanical Convergence Engineering
-  - Department of Applied Artificial Intelligence (Double Major)
+**Seoul National University of Science and Technology (SeoulTech)**  
+**B.S. (Double Major)** — Mechanical Convergence Engineering & Applied Artificial Intelligence  
+Mar 2022 – Feb 2026
+
+---
 
 ## 💼 Experience
-- **2025.03 - 2025.08**   : ML Engineer, KIST
-  - Conducted research on VLM for automated information extraction and digital twin construction
+**Machine Learning Engineer Intern — KIST (Korea Institute of Science and Technology)**  
+Mar 2025 – Aug 2025  
+
+- Conducted research on **Vision-Language Models (VLM)** for automated objective information extraction  
+- Built multimodal perception pipeline for **digital twin–based robotic environments**  
+- Integrated detection, segmentation, and OCR modules into deployable inference workflow  
+
+---
 
 ## 🏆 Awards
-| Challenge | Hosted by | Objective | Award | Role | Date |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **AI Detection Model Competition for Deepfake Crime Response** | National Forensic Service (NFS) | Developed a classification prediction model to distinguish between real and fake face images/video frames. | **Excellence Award** | **Leader** | Dec 2025 |
-| **AI Competition for Traffic Accident Risk Prediction using Cognitive Data of Transport Workers** | Korea Transportation Safety Authority (KOTSA) | Developed an AI model to predict traffic accident risk using cognitive characteristic data of transport workers. | **Merit Award** | **Leader** | Dec 2025 |
-| **Paju Citizen AI Innovation Idea Competition** | Paju City | Proposed an AI cultural content service to revitalize the Paju Book City area. | **Encouragement Award** | **Leader** | Dec 2025 |
-| **2025 MixUP AI Datathon** | Upstage AI | Prompt Engineering utilizing the SOLAR Pro2 API. | **Excellence Award** | **Leader** | Nov 2025 |
-| **2025 Weather Big Data Contest** | Korea Meteorological Administration (KMA) | Correlation analysis and prediction between weather and subway congestion. | **Encouragement Award** | **Member** | Aug 2025 |
-| **Capstone Design** | Seoul National University of Science and Technology (SeoulTech) | Developed an autonomous firefighting robot system using CCTV-based fire detection AI. | **Grand Prize** | **Leader** | Jun 2025 |
-| **2024 Big Data Creator Camp** | National Information Society Agency (NIA) | Developed a fashion style recommendation system. | **Excellence Award** | **Leader** | Nov 2024 |
 
-<p align="left">
-<!--   <a href="https://ho323.notion.site/c4d544910c724d79a9a778f11e5bfcca?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp -->
-  <a href="mailto:8536048@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=8536048@gmail.com"/></a>
-</p>
-<br>
+**AI Detection Model Competition for Deepfake Crime Response — Excellence Award (Leader)**  
+National Forensic Service (NFS) | Dec 2025  
+- Developed classification models to distinguish real vs fake face images/video frames  
+- Designed large-scale data collection and generator-specific artifact learning strategy  
+
+**AI Competition for Traffic Accident Risk Prediction using Cognitive Data — Merit Award (Leader)**  
+Korea Transportation Safety Authority (KOTSA) | Dec 2025  
+- Built predictive models using transport worker cognitive feature data  
+
+**2025 MixUP AI Datathon — Excellence Award (Leader)**  
+Upstage AI | Nov 2025  
+- Designed prompt engineering workflow using SOLAR Pro2 API  
+
+**Capstone Design (Autonomous Firefighting Robot) — Grand Prize (Leader)**  
+Seoul National University of Science and Technology | Jun 2025  
+- Developed CCTV-based fire detection AI integrated with ROS-based autonomous robot  
+
+**2025 Weather Big Data Contest — Encouragement Award (Member)**  
+Korea Meteorological Administration (KMA) | Aug 2025  
+
+**Paju Citizen AI Innovation Idea Competition — Encouragement Award (Leader)**  
+Paju City | Dec 2025  
+
+**2024 Big Data Creator Camp — Excellence Award (Leader)**  
+National Information Society Agency (NIA) | Nov 2024  
+
+---
+
+## 📫 Contact
+<a href="mailto:8536048@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
