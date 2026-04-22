@@ -5,9 +5,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Hoseong Kim**, an **ML Engineer** focused on building efficient AI systems for real-world environments.
-
-I am particularly interested in improving **operational efficiency under resource constraints** through **model optimization, system design, and deployable ML workflows**.
+Hi, I'm **Hoseong Kim**, an **ML Engineer** building **computer vision, Physical AI, and deployable ML systems** for real-world environments.
 
 
 ---
@@ -17,7 +15,7 @@ I am particularly interested in improving **operational efficiency under resourc
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
@@ -26,7 +24,7 @@ I am particularly interested in improving **operational efficiency under resourc
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/> -->
 </p>
 
 ### Tools / Infra
