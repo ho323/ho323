@@ -7,8 +7,8 @@
 Hi, I'm **Hoseong Kim**, an **ML Engineer** with a background in  
 **Mechanical Engineering** and **Artificial Intelligence**.
 
-I build AI systems for **physical environments**, focusing on  
-**robotics AI, computer vision, digital twins, spatio-temporal prediction, and deployable ML pipelines**.
+I build AI systems for **physical systems**, focusing on  
+**robotics AI, computer vision, digital twins, spatio-temporal prediction, and deployable ML systems**.
 
 ---
 
@@ -18,7 +18,7 @@ I build AI systems for **physical environments**, focusing on
 - 👁️ **Computer Vision & VLM**: object detection, segmentation, OCR, deepfake detection, visual anomaly detection  
 - 🌍 **Spatio-Temporal Modeling**: global-scale prediction, time-series modeling, physical-system forecasting  
 - 🏭 **Manufacturing AI & PHM**: defect prediction, anomaly detection, predictive maintenance, RUL-oriented modeling  
-- ⚙️ **ML Systems**: Docker, PostgreSQL, Airflow, experiment tracking, deployment-oriented pipelines  
+- ⚙️ **MLOps & ML Systems**: Docker, PostgreSQL, Airflow, data pipelines, experiment tracking, deployment-oriented workflows
 
 ---
 
