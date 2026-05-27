@@ -29,7 +29,6 @@ I build AI systems for **physical systems**, focusing on
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VLM-6A5ACD?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
