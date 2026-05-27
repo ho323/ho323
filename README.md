@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hoseong%20Kim&fontAlign=70&fontAlignY=38&color=gradient&fontSize=42&desc=ML%20Engineer%20%7C%20Robotics%20AI%20%7C%20VLM%20%7C%20Digital%20Twin&descAlign=70&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hoseong%20Kim&fontAlign=70&fontAlignY=38&color=gradient&fontSize=42&desc=ML%20Engineer&descAlign=70&descAlignY=58)
 
 ---
 
@@ -12,10 +12,10 @@ I build AI systems for **physical environments**, focusing on
 
 ---
 
-## 🧭 Interest Areas
+## 🧭 Focus Areas
 
 - 🤖 **Robotics AI & Physical AI**: robot perception, VLM-based scene understanding, digital twin environments  
-- 👁️ **Computer Vision**: object detection, segmentation, OCR, deepfake detection, visual anomaly detection  
+- 👁️ **Computer Vision & VLM**: object detection, segmentation, OCR, deepfake detection, visual anomaly detection  
 - 🌍 **Spatio-Temporal Modeling**: global-scale prediction, time-series modeling, physical-system forecasting  
 - 🏭 **Manufacturing AI & PHM**: defect prediction, anomaly detection, predictive maintenance, RUL-oriented modeling  
 - ⚙️ **ML Systems**: Docker, PostgreSQL, Airflow, experiment tracking, deployment-oriented pipelines  
@@ -41,6 +41,24 @@ I build AI systems for **physical environments**, focusing on
 
 ---
 
+## 💼 Experience
+
+### Machine Learning Engineer Intern — KIST  
+**Climate and Carbon Cycle Research Group**  
+**Mar 2026 – Present**
+
+- Working on AI models for global-scale physical-system prediction using high-dimensional spatio-temporal data
+- Exploring data-driven modeling for atmospheric, oceanic, and carbon-cycle systems
+
+### Machine Learning Engineer Intern — KIST  
+**Humanoid Robotics Research Group**  
+**Mar 2025 – Aug 2025**
+
+- Developed robot perception pipelines using object detection, segmentation, OCR, and VLM-based reasoning
+- Worked with Isaac Sim, ROS2, PyTorch, TensorRT, Docker, and Linux-based environments
+
+---
+
 ## 🏆 Awards
 
 - **Grand Prize**, 2026 BITAmin Winter Conference — VLM-based football highlight generation  
@@ -55,7 +73,7 @@ I build AI systems for **physical environments**, focusing on
 
 ## 📚 Publications
 
-- **Context-Aware Dual-Stream Framework for Sleep Quality Prediction Using Multi-Modal Lifelog Data**  
+- **Context-Aware Dual-Stream Framework for Sleep Quality Prediction Using Multi-Modal Lifelog Data**
 - **RGB-Based Weight Estimation for Improved Mobile Robot Path Planning**
 
 ---
